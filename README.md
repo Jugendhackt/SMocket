@@ -3,7 +3,7 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
 
 ## Installation
   ### Raspberrry Pi ###
-  1. Passendes Tutorial raussuchen, um das vorgefertigte Image auf dem RasbPi zu installieren
+  1. Passendes Tutorial raussuchen, um das **vorgefertigte Image** auf dem RasbPi zu installieren
     *[Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
     *[macOS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
     *[Windoof](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
@@ -13,5 +13,5 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
       2. `cd /home/pi/smocket/ && . setup.sh`
   ### Android ###
   1. [App](http://play.google.de/) downloaden
-  2. Im WLAN des Raspberrys anmelden (Pwd: wireless)
+  2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: wireless)
   3. In der App auf Registrieren klicken
