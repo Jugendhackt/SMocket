@@ -11,6 +11,7 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
   2. Nach erfolgreichem Start und Anmelden:
       1. `cd /home/pi/ && git clone http://github.com/Jugendhackt/smocket`
       2. `cd /home/pi/smocket/ && . setup.sh`
-      
-
-    
+  ### Android ###
+  1. [App](http://play.google.de/) downloaden
+  2. Im WLAN des Raspberrys anmelden (Pwd: wireless)
+  3. In der App auf Registrieren klicken
