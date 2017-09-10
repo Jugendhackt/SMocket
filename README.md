@@ -1,4 +1,4 @@
-﻿# Smocket
+# Smocket
 _Ein Projekt von Jugend Hackt 2017 Köln_
 
 ## Installation
@@ -9,8 +9,12 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
     *[Windoof](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
     
   2. Nach erfolgreichem Start und Anmelden:
+<<<<<<< HEAD
       1. `cd /home/pi/ && git clone http://github.com/Jugendhackt/smocket`
       2. `cd /home/pi/Smocket/ && . setup.sh`
+=======
+      1. `cd /home/pi/Smocket && git pull && git  && . setup.sh`
+>>>>>>> e9ebd1a5a78bc9252fe9155685c52b1fb0931199
   ### Android ###
   1. [App](http://play.google.de/) downloaden
   2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: *folgt*)
