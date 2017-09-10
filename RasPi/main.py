@@ -13,22 +13,22 @@ status = [3,0,0]
 
 def loop():
 	print("Loop runs again ...")
-        userIstAnwesend = network.recognize()
-
-        if userIstAnwesend == 1:
+	userIstAnwesend = network.recognize()
+	
+	if userIstAnwesend == 1:
 		print("User ist da")
 		if not devicesTurnedOn:
 
 			#Steckdosen abschalten
-	                turnAllOn()
-        else:
+			turnAllOn()
+	else:
 		print("User ist nicht da")
-                if devicesTurnedOn:
+		if devicesTurnedOn:
 			#Daten speichern
 			saveStatus()
 
 			#Steckdosen anschalten
-                        turnAllOff()
+			turnAllOff()
 
 	s.enter(5,1,loop,())
 
