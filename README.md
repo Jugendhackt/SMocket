@@ -1,4 +1,4 @@
-# Smocket
+﻿# Smocket
 _Ein Projekt von Jugend Hackt 2017 Köln_
 
 ## Installation
@@ -13,5 +13,5 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
       2. `cd /home/pi/smocket/ && . setup.sh`
   ### Android ###
   1. [App](http://play.google.de/) downloaden
-  2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: wireless)
-  3. In der App auf Registrieren klicken
+  2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: *folgt*)
+  3. In der App die IP des Pi im Tab "Einstellungen" unter "IP" eintragen
