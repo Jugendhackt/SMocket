@@ -14,4 +14,4 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
   ### Android ###
   1. [App](http://play.google.de/) downloaden
   2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: *folgt*)
-  3. In der App auf Registrieren klicken
+  3. In der App die IP des Pi im Tab "Einstellungen" unter "IP" eintragen
