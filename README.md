@@ -10,7 +10,7 @@ _Ein Projekt von Jugend Hackt 2017 Köln_
     
   2. Nach erfolgreichem Start und Anmelden:
       1. `cd /home/pi/ && git clone http://github.com/Jugendhackt/smocket`
-      2. `cd /home/pi/smocket/ && . setup.sh`
+      2. `cd /home/pi/Smocket/ && . setup.sh`
   ### Android ###
   1. [App](http://play.google.de/) downloaden
   2. Im WLAN "SmocketNetwork" des Raspberrys anmelden (Pwd: *folgt*)
