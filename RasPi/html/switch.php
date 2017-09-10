@@ -11,7 +11,7 @@ if (!($new_value == 0 || $new_value == 1)) {
 
 
 //Python Script auffrufen, um Lampenstatus zu ändern
-$cmd = "/usr/bin/python3 /home/pi/gpioswitch.py ". $id . " " . $new_value; 
+$cmd = "/usr/bin/python3 /home/pi/Smocket/RasPi/gpioswitch.py ". $id . " " . $new_value; 
 //echo $cmd;
 
 exec($cmd);
